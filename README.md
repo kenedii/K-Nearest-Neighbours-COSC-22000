@@ -3,7 +3,7 @@ K-Nearest Neighbours algorithm from scratch for Binary classification. Made for 
 
 Data used: Dominos: [(3,4),(4,5),(7,3), (3,6), (5,3)],
 
-          Pizza Hut: [(-3,-4), (-4, -2), (-3,-8), (-5,-6), (-3,-3), (-3,-2)] 
+Pizza Hut: [(-3,-4), (-4, -2), (-3,-8), (-5,-6), (-3,-3), (-3,-2)] 
 
 def new_point_class(new_point, data, k=3, classifier='mode'): returns class of new point as str
 
