@@ -15,6 +15,6 @@ Pizza Hut: [(-3,-4), (-4, -2), (-3,-8), (-5,-6), (-3,-3), (-3,-2)]
 
 **classifier:** 'mode' recommended. 
 
-     *'mode':* # Calculate the mode of the second numbers (Mode of the class of the K nearest neighbours)
+     'mode': # Calculate the mode of the second numbers (Mode of the class of the K nearest neighbours)
 
-     *'sum':* # Uses the sum of the binary class representation of the k nearest neighbours to classify the new point (only works for binary classification)
+     'sum': # Uses the sum of the binary class representation of the k nearest neighbours to classify the new point (only works for binary classification)
